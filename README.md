@@ -1,4 +1,3 @@
-# LAMOS
 Hi! This is my OS, LAM. How to run it:
 
 1. Download and install any version of Python.
@@ -7,3 +6,4 @@ Hi! This is my OS, LAM. How to run it:
 4. Open CMD inside the project folder and run `python lam.py`.
 
 Enjoy! Have fun using it xD
+P.S.: This system does NOT replace Windows, Linux, or other operating systems. It is a fan project, so just have fun! :D
